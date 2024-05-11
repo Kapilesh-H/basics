@@ -1,10 +1,9 @@
-##Importing necessary libraries
-'''
+'''##Importing necessary libraries'''
 import fitz  # PyMuPDF
 import pandas as pd
 import re
 
-##Data Extraction method
+'''##Data Extraction method
 '''
 def extract_features(pdf_file):
     # Open the PDF file
