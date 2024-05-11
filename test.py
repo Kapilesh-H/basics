@@ -42,5 +42,6 @@ def extract_features(pdf_file):
     }
 
     return pdf_features
+    '''
 
 
